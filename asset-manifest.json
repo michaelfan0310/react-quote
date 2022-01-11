@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-quote/static/css/main.9c3d51c8.chunk.css",
+    "main.js": "/react-quote/static/js/main.e3f3fadb.chunk.js",
+    "main.js.map": "/react-quote/static/js/main.e3f3fadb.chunk.js.map",
+    "runtime~main.js": "/react-quote/static/js/runtime~main.a27baf1e.js",
+    "runtime~main.js.map": "/react-quote/static/js/runtime~main.a27baf1e.js.map",
+    "static/css/2.68a81a89.chunk.css": "/react-quote/static/css/2.68a81a89.chunk.css",
+    "static/js/2.5bfcb9af.chunk.js": "/react-quote/static/js/2.5bfcb9af.chunk.js",
+    "static/js/2.5bfcb9af.chunk.js.map": "/react-quote/static/js/2.5bfcb9af.chunk.js.map",
+    "index.html": "/react-quote/index.html",
+    "precache-manifest.9602735fe616bf7fdcfdd1233f9acf22.js": "/react-quote/precache-manifest.9602735fe616bf7fdcfdd1233f9acf22.js",
+    "service-worker.js": "/react-quote/service-worker.js",
+    "static/css/2.68a81a89.chunk.css.map": "/react-quote/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.9c3d51c8.chunk.css.map": "/react-quote/static/css/main.9c3d51c8.chunk.css.map",
+    "static/media/1900.mp4": "/react-quote/static/media/1900.87c9d1fa.mp4",
+    "static/media/19002.mp4": "/react-quote/static/media/19002.9785cec7.mp4",
+    "static/media/19003.mp4": "/react-quote/static/media/19003.07e9d3b9.mp4",
+    "static/media/AngryRiver.mp4": "/react-quote/static/media/AngryRiver.1a321564.mp4",
+    "static/media/AngryRiver3.mp4": "/react-quote/static/media/AngryRiver3.57ef0d64.mp4",
+    "static/media/CityIntheSky.mp4": "/react-quote/static/media/CityIntheSky.110b401f.mp4",
+    "static/media/Courage.mp4": "/react-quote/static/media/Courage.04c15e14.mp4",
+    "static/media/Michael.mp4": "/react-quote/static/media/Michael.e33c1b90.mp4",
+    "static/media/OnceAmerica.mp4": "/react-quote/static/media/OnceAmerica.dcdd769e.mp4",
+    "static/media/OnceInWest.mp4": "/react-quote/static/media/OnceInWest.7f39dcf3.mp4",
+    "static/media/OutAf.mp4": "/react-quote/static/media/OutAf.05a74037.mp4",
+    "static/media/Schind.mp4": "/react-quote/static/media/Schind.d950fb83.mp4",
+    "static/media/Teheran.mp4": "/react-quote/static/media/Teheran.7fd233c4.mp4",
+    "static/media/App.css": "/react-quote/static/media/dario.faf3e11d.jpg",
+    "static/media/forrest.mp4": "/react-quote/static/media/forrest.0a0cb4c4.mp4",
+    "static/media/michael.png": "/react-quote/static/media/michael.056dd16a.png"
+  }
+}
