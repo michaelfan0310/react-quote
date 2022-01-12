@@ -79,7 +79,7 @@ video, .video2{
   top: 2%;
 }
 img {
-  margin: 20px 25px -20px 20px;
+  margin: 20px 45px -20px -20px;
 }
 .circle-img2 {
   
@@ -94,29 +94,29 @@ img {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -3%;
+  left: -23%;
    top: 7%;
 } 
  #vbutton2 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: 1%;
+  left: -18%;
    top: 7%;
 } 
  #vbutton3 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: 5%;
+  left: -15%;
    top: 7%;
 } 
 .button2{
   position: relative;
   z-index: 9;
   color: rgba(255, 255, 255, 0.342);
-  left: 5%;
-   top: -19%;
+  left: -10%;
+   top: 7%;
    padding: 0 15%;
 }
 /* .button3{
