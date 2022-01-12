@@ -1,0 +1,15 @@
+.buttonWrapper{
+  display:block;
+  margin: 10px auto 2px auto;
+  width: 40%;
+  bottom: 1px;
+  position: fixed; 
+  left:40%; 
+  text-shadow:azure;
+  
+  z-index: 12;
+   }
+
+.btn {
+    text-shadow:none;
+}

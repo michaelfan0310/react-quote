@@ -1,38 +1,224 @@
-.App {
+html{
+  cursor:url('data:image/png;base64,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'),pointer;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 25px;  
+  background-image: url("./images/dario.jpg");
+  background-color: rgba(27, 27, 27, 0.959);
+  text-align: center;
+  
+}
+
+.dictionary2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2% 3%;
+  max-width: 100%;  
+  float: left;
+}
+.card2 {
+  border-radius: 25px;
+  position: relative;
+  padding: 25px 15px;
+  background-color: #00cecb00;
+  margin: 50px 0;
+  height: 260px;
+  box-shadow: 0 2px 6px rgba(238, 232, 232, 0.966);
+  /* text-align: left;  */
+  max-width: 400px;
+  min-width: 400px;
+}
+
+video, .video2{
+  margin-top: -46px;
+  margin-bottom: 20px;
+  padding-bottom: -20px;
+  align-items: center;
+  width:100%;
+  position: relative;
+  z-index: 9;
+  left: -2%;
+}
+.video2{
+  margin-top: -40px;
+  left: 1%;
+}
+.video3{
+  margin-top: -16px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  align-items: center;
+  width:100%;
+  position: relative;
+  z-index: 9;
+  left: 0%;
+}
+
+.video1900{
+  margin-top: -16px;
+ /* padding-left: -20%; */
+ margin-left: -13%;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  align-items: center;
+  width:100%;
+  position: relative;
+  z-index: 9;
+}
+
+.pointer {
+  align-items: center;
+  color: antiquewhite;
+  position: relative;  
+  z-index: 9;
+  text-decoration: none;
+  top: 2%;
+}
+img {
+  margin: 20px 25px -20px 20px;
+}
+.circle-img2 {
+  
+  border-radius: 50%;
+  border: 5px solid rgb(255, 255, 255);
+  text-overflow: 2px;
+  width: 85px;
+  height: 79px;
+}
+
+#vbutton {
+  position: relative;
+  z-index: 2;
+  color: rgba(255, 255, 255, 0.342);
+  left: 2%;
+   top: 7%;
+} 
+ #vbutton2 {
+  position: relative;
+  z-index: 2;
+  color: rgba(255, 255, 255, 0.342);
+  left: 8%;
+   top: 7%;
+} 
+ #vbutton3 {
+  position: relative;
+  z-index: 2;
+  color: rgba(255, 255, 255, 0.342);
+  left: 12%;
+   top: 7%;
+} 
+.button2{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.342);
+  left: 5%;
+   top: -19%;
+   padding: 0 15%;
+}
+/* .button3{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.842);
+   left: -280%; 
+   top: 50%;
+} */
+.button4{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.842);
+  left: 25%;
+  top: 18%;
+}
+.vidOnceWest{
+  top:15%;
+  left: 0.5%;
+}
+
+@media only screen and (max-width: 880px){
+
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 10px;  
+  background-image: url("./images/dario.jpg");
+  background-color: rgba(27, 27, 27, 0.863);
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+ .card2 {
+  border-radius: 16px;
+  position: relative;
+  padding: 10px 0px;
+  background-color: #282729f3;
+  margin: 10px 0;
+  height: 180px;
+  box-shadow: 0 2px 6px rgba(238, 232, 232, 0.966);
+  /* text-align: left;  */
+  max-width: 280px;
+  min-width: 280px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.dictionary2 {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0.2% 0.2%;
+  max-width: 70%;  
+  float: left;
+}
+.video1900{
+  margin-top: -16px;
+ padding-left: -12%;
+ margin-left: 2%;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width:100%;
+  position: relative;
+  z-index: 9;
+}
+.button2{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.342);
+  left: 5%;
+   top: -29%;
+   padding: 0 15%;
 }
 
-.App-link {
-  color: #61dafb;
+.video4{
+  margin-top: -40px;
+  left: 1%;
+}
+#vbutton, #vbutton2, #vbutton3{
+  top:-22%;
+}
+#vbutton { 
+  left: 18%;   
+} 
+ #vbutton2 {
+  left: 25%;  
+} 
+ #vbutton3 {
+  left: 35%;  
+}
+.video2{
+ margin-left: -8%;
+ /* margin-top: 2%; */
+  width:100%;
+  position: relative;
+  z-index: 9;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.button3{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.842);
+  left: -75%;
+   top: 50%;
+}
 }

@@ -1,0 +1,196 @@
+body {
+  font-family: sans-serif;
+  margin: 0 auto;
+  padding: 25px;  
+  background-image: url("../images/dario.jpg");
+  background-color: rgba(20, 20, 20, 0.932);
+  text-align: center;
+}
+
+.dictionary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 2% 3%;
+  max-width: 100%;  
+  float: left;
+}
+
+.heading {
+  text-align: center;
+  text-shadow: 2px 4px rgb(77, 114, 114);
+  font-size: 3.5em;
+  color: #d8e7e5;
+  margin: 20px 0 30px;
+}
+
+.cardback {
+  border-radius: 25px;
+  position: relative;
+  padding: 25px 15px;
+  background-color: #81ecec;
+  margin: 50px 0;
+  height: 260px;
+  box-shadow: 0 2px 6px rgba(238, 232, 232, 0.897);
+  text-align: start; 
+  max-width: 400px;
+  min-width: 400px;
+}
+.shift {
+  position: relative;
+  top: 140%;
+  right: 5%;
+  color: whitesmoke;
+}
+
+.top {
+  border-radius: 25px 25px 0 0;
+  height: 100px;
+  width: 100%;
+  background-color: #00cec9;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  float: left;
+}
+
+.name {
+  font-size: 2em;
+  color: #0e584d;
+  display: flex;
+  flex: 2;
+  margin: 10% 20px 0;
+  position: relative;
+  z-index: 1;
+  width: 30%;
+}
+
+ .card img {
+  /* margin: 20px 30px 0 -40px; */
+  margin: 20px 110px 20px 0px;
+
+}
+
+.circle-img {
+  border-radius: 50%;
+  border: 7px solid rgb(255, 255, 255);
+  text-overflow: 5px;
+  width: 125px;
+  height: 125px;
+}
+
+/* .bottom {
+  margin-top: 80px;  
+  background-color: #81e7e7;
+  
+} */
+/* .bottom2 {
+  margin-top: 132px;  
+  background-color: #81e7e7;
+} */
+.info {
+  
+  margin-top: 51px;
+  padding-top: 62px;
+  color: #034141;
+  font-size: 1.1rem;
+  font-family: sans-serif;
+  margin-left: -2px;
+  /* line-height: 99%; */
+}
+
+button {
+    -webkit-appearance: button-bevel;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: #d2e0e0;
+    
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: -2px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: justify;
+    align-items: flex-start;
+    cursor: pointer;
+    background-color: #00cecb00;
+    box-sizing: content-box;
+    margin: -17px -2.7em;
+    font: 700 15px system-ui;
+    padding: -19px -6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #00cecb00;
+    border-image: initial;
+    position: relative;
+    z-index: 0;
+   left: -15%;
+   top: 67%;
+    
+}
+@media only screen and (max-width: 880px){
+
+body {
+  background-image: url("../images/dario.jpg");
+  background-color: rgba(27, 27, 27, 0.863);
+}
+
+.cardback {
+  border-radius: 16px;
+  position: relative;
+  padding: 10px 0px;
+  margin: 10px 0;
+  height: 180px;
+  box-shadow: 0 2px 6px rgba(238, 232, 232, 0.966);
+  text-align: start; 
+  max-width: 280px;
+  min-width: 280px;
+}
+.dictionary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0.2%  0.2%;
+  max-width: 70%;  
+  float: left;
+}
+
+
+button {  
+   /* left: -80%;  */
+   top: 50%;
+   }
+
+
+.circle-img {
+  border-radius: 50%;
+  border: 7px solid rgb(255, 255, 255);
+  text-overflow: 1px;
+  width: 95px;
+  height: 95px;
+}
+.bottom {
+  position: relative;
+  z-index: 3;
+  margin-top: 80px;
+  color: #034141;
+}
+.info {
+  margin-top: 28px;
+  padding-top: 20px;
+  color: #034141;
+  font-size: 0.8rem;
+  margin-left: 2px;
+}
+/* .button3{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.842);
+   left: -280%; 
+   top: 50%;
+} */
+
+}
+  
