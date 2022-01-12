@@ -49,9 +49,10 @@ return (
         <div className="cardback">
             <div className="top">
             <dt>
-                <h2 className="name">{props.name}</h2></dt>
+                <h2 className="name">{props.name}</h2>
+                </dt>
                 <Avatar img={props.img}/>
-                
+
                <button className="button3"           
                 onClick={switchCard}       
                 >S2
@@ -61,8 +62,7 @@ return (
                 <button               
                 onClick={switchQuote}     
                 >Switch
-                </button>
-                
+                </button>             
                 
 
                 

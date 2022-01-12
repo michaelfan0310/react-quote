@@ -61,7 +61,7 @@ video, .video2{
 .video1900{
   margin-top: -16px;
  /* padding-left: -20%; */
- margin-left: -13%;
+ margin-left: -19%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -94,21 +94,21 @@ img {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: 2%;
+  left: -3%;
    top: 7%;
 } 
  #vbutton2 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: 8%;
+  left: 1%;
    top: 7%;
 } 
  #vbutton3 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: 12%;
+  left: 5%;
    top: 7%;
 } 
 .button2{
