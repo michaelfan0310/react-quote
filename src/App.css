@@ -70,7 +70,7 @@ body {
 .video1900{
   margin-top: -16px;
  /* padding-left: -20%; */
- margin-left: -6%;
+ margin-left: -36%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -82,11 +82,11 @@ body {
 .pointerKitchen {
   align-items: center;
   color: antiquewhite;
-  position: fixed;  
+  position: relative;  
   z-index: 9;
   text-decoration-color: none;
-  top: 97%;
-  left:2%;
+  top: 3%;
+  left:-33%;
 }
 
 .circle-img2 {
@@ -183,7 +183,7 @@ body {
 }
 .video1900{ 
  
- margin-left: -7%; 
+ margin-left: -50%; 
  
   width:100%;
  }
@@ -204,16 +204,16 @@ body {
   left: 1%;
 }
 #vbutton, #vbutton2, #vbutton3{
-  top:-22%;
+  top:-6%;
 }
 #vbutton { 
-  left: 18%;   
+  left: -58%;   
 } 
  #vbutton2 {
-  left: 25%;  
+  left: -20%;  
 } 
  #vbutton3 {
-  left: 35%;  
+  left: 15%;  
 }
 .video2{
  margin-left: -8%;
