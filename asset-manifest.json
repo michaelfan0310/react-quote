@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-quote/static/css/main.3fe4088f.chunk.css",
+    "main.css": "/react-quote/static/css/main.67d2cf05.chunk.css",
     "main.js": "/react-quote/static/js/main.d892d01e.chunk.js",
     "main.js.map": "/react-quote/static/js/main.d892d01e.chunk.js.map",
     "runtime~main.js": "/react-quote/static/js/runtime~main.a27baf1e.js",
@@ -9,10 +9,10 @@
     "static/js/2.5bfcb9af.chunk.js": "/react-quote/static/js/2.5bfcb9af.chunk.js",
     "static/js/2.5bfcb9af.chunk.js.map": "/react-quote/static/js/2.5bfcb9af.chunk.js.map",
     "index.html": "/react-quote/index.html",
-    "precache-manifest.05ae889f422c85c4ae76a1cf375e9926.js": "/react-quote/precache-manifest.05ae889f422c85c4ae76a1cf375e9926.js",
+    "precache-manifest.6006b0c3ea3d8b58054dc0def4a45ca4.js": "/react-quote/precache-manifest.6006b0c3ea3d8b58054dc0def4a45ca4.js",
     "service-worker.js": "/react-quote/service-worker.js",
     "static/css/2.68a81a89.chunk.css.map": "/react-quote/static/css/2.68a81a89.chunk.css.map",
-    "static/css/main.3fe4088f.chunk.css.map": "/react-quote/static/css/main.3fe4088f.chunk.css.map",
+    "static/css/main.67d2cf05.chunk.css.map": "/react-quote/static/css/main.67d2cf05.chunk.css.map",
     "static/media/1900.mp4": "/react-quote/static/media/1900.87c9d1fa.mp4",
     "static/media/19002.mp4": "/react-quote/static/media/19002.9785cec7.mp4",
     "static/media/19003.mp4": "/react-quote/static/media/19003.07e9d3b9.mp4",
