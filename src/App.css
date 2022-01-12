@@ -77,13 +77,14 @@ body {
   z-index: 9;
 }
 
-.pointer {
+.pointerKitchen {
   align-items: center;
   color: antiquewhite;
-  position: relative;  
+  position: fixed;  
   z-index: 9;
-  text-decoration: none;
-  top: 2%;
+  text-decoration-color: none;
+  top: 97%;
+  left:2%;
 }
 
 .circle-img2 {
@@ -136,15 +137,17 @@ body {
   position: relative;
   z-index: 9;
   color: rgba(255, 255, 255, 0.842);
-  left: -25%;
+  left: 5%;
   top: 18%;
 }
 .vidOnceWest{
+  width:100%;
   top:15%;
   left: 0.5%;
 }
 
 @media only screen and (max-width: 880px){
+  /* html {cursor: pointer;} */
 
 body {
   font-family: sans-serif;
@@ -179,7 +182,7 @@ body {
 .video1900{
   margin-top: -16px;
  padding-left: -12%;
- margin-left: 2%;
+ margin-left: -50%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -195,7 +198,10 @@ body {
    top: -29%;
    padding: 0 15%;
 }
-
+.button4{
+ 
+  top: -8%;
+}
 .video4{
   margin-top: -40px;
   left: 1%;
@@ -227,10 +233,29 @@ body {
   left: -75%;
    top: 50%;
 }
-.pointer {  
-  top: 0.5%;
+
+.not-allowed {
+     cursor: not-allowed !important;
 }
 /* don't delete above line */
+.disabled-wrapper {
+  display: inline-block;
+  cursor: not-allowed;
+}
+
+.disabled-wrapper a,
+.disabled-wrapper button {
+  pointer-events: none;
+}
+
+button[disabled] {
+  cursor: not-allowed;
+}
+
+a.disabled.js-test,
+button.disabled.js-test {
+  cursor: not-allowed;
+}
 }
 
 @media only screen and (max-width: 500px){

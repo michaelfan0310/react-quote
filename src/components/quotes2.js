@@ -2,7 +2,7 @@ const quotes2=[
     
     {
     id: 1, 
-    name: "Robert T. Bennett",
+    name: "Robert Bennett",
     imgURL: "https://upload.wikimedia.org/wikipedia/commons/7/72/Robert_T._Bennett.jpg",
 
     quote: "Be thankful for everything that happens in your life; it’s all an experience.",

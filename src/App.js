@@ -53,7 +53,7 @@ function App() {
       <VideoRoom6 />
       
       
-      <div className="pointer">      
+      <div className="pointerKitchen">      
       <h5> <a href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a></h5>
       </div>
       <ButtonWrap />

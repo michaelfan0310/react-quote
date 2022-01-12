@@ -35,11 +35,12 @@ function VideoRoom2(){
            src={video} type="video/mp4"  />          
          <source src="movie.ogg" type="video/ogg">
         </source>
-        {/* </video> */}
+       
         <button 
         onClick={switchVideo}
          
-        id="vbutton" >Switch</button>
+        id="vbutton" >Switch</button></div>
+        <div>
         <button 
         onClick={switchVideoAgain}
          
@@ -48,6 +49,7 @@ function VideoRoom2(){
         onClick={switchVideoBack}
          
         id="vbutton3" >3</button>
+        
         </div>
         </div>
     );
