@@ -8,9 +8,16 @@ body {
   padding: 25px;  
   background-image: url("./images/dario.jpg");
   background-color: rgba(27, 27, 27, 0.959);
-  text-align: center;
-  
+  text-align: center;  
 }
+.not-allowed {
+     cursor: not-allowed !important;
+}
+/* try to solved cursor in small screen */ 
+/* button[disabled] {
+  cursor: not-allowed;
+} */
+/* try to solved cursor in small screen */
 
 .dictionary2 {
   display: flex;
@@ -220,4 +227,18 @@ body {
   left: -75%;
    top: 50%;
 }
+.pointer {  
+  top: 0.5%;
+}
+/* don't delete above line */
+}
+
+@media only screen and (max-width: 500px){
+  html {cursor: auto;}
+
+  /* .video1900{
+ 
+ margin-left: -50%;} */
+
+
 }

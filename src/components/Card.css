@@ -113,7 +113,7 @@ button {
     display: inline-block;
     text-align: justify;
     align-items: flex-start;
-    cursor: pointer;
+    /* cursor: pointer; */
     background-color: #00cecb00;
     box-sizing: content-box;
     margin: -17px -2.7em;
@@ -128,6 +128,7 @@ button {
    left: -29%;
    top: 67%;    
 }
+
 
 @media only screen and (max-width: 880px){
 
