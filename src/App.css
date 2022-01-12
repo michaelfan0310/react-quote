@@ -78,11 +78,12 @@ video, .video2{
   text-decoration: none;
   top: 2%;
 }
-img {
+.circle-img {
   margin: 20px 45px -20px -20px;
 }
 .circle-img2 {
-  
+  top: -10px;
+  left:5px;
   border-radius: 50%;
   border: 5px solid rgb(255, 255, 255);
   text-overflow: 2px;
@@ -94,21 +95,21 @@ img {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -23%;
+  left: -43%;
    top: 7%;
 } 
  #vbutton2 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -18%;
+  left: -38%;
    top: 7%;
 } 
  #vbutton3 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -15%;
+  left: -35%;
    top: 7%;
 } 
 .button2{
@@ -116,7 +117,7 @@ img {
   z-index: 9;
   color: rgba(255, 255, 255, 0.342);
   left: -10%;
-   top: 7%;
+   top: -2%;
    padding: 0 15%;
 }
 /* .button3{
@@ -130,7 +131,7 @@ img {
   position: relative;
   z-index: 9;
   color: rgba(255, 255, 255, 0.842);
-  left: 25%;
+  left: -25%;
   top: 18%;
 }
 .vidOnceWest{
