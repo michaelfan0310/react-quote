@@ -51,7 +51,7 @@ return (
             <dt>
                 <h2 className="name">{props.name}</h2>
                 </dt>
-                <Avatar img={props.img}/>
+                <Avatar img={props.img} />
 
                <button className="button3"           
                 onClick={switchCard}       
