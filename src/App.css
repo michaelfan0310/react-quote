@@ -86,7 +86,7 @@ body {
   z-index: 9;
   text-decoration-color: none;
   top: 3%;
-  left:-33%;
+  left:-13%;
 }
 
 .circle-img2 {
@@ -235,7 +235,7 @@ body {
      cursor: not-allowed !important;
 }
 /* don't delete above line */
-.disabled-wrapper {
+/* .disabled-wrapper {
   display: inline-block;
   cursor: not-allowed;
 }
@@ -252,7 +252,7 @@ button[disabled] {
 a.disabled.js-test,
 button.disabled.js-test {
   cursor: not-allowed;
-}
+} */
 }
 
 @media only screen and (max-width: 500px){
