@@ -33,7 +33,7 @@ body {
   min-width: 400px;
 }
 
-video, .video2{
+.video1, .video2{
   margin-top: -46px;
   margin-bottom: 20px;
   padding-bottom: -20px;
@@ -61,7 +61,7 @@ video, .video2{
 .video1900{
   margin-top: -16px;
  /* padding-left: -20%; */
- margin-left: -23%;
+ margin-left: -26%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -78,9 +78,7 @@ video, .video2{
   text-decoration: none;
   top: 2%;
 }
-.circle-img {
-  margin: 20px 45px -20px -20px;
-}
+
 .circle-img2 {
   top: -10px;
   left:5px;
@@ -109,7 +107,7 @@ video, .video2{
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -35%;
+  left: -33%;
    top: 7%;
 } 
 .button2{

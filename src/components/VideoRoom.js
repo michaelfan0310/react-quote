@@ -22,7 +22,7 @@ function VideoRoom(){
         <div className="card2">
         
 
-       <video controls autoPlay loop muted 
+       <video controls autoPlay loop muted className="video1"
           src={clip} type="video/mp4" />
         
          <source src="movie.ogg" type="video/ogg">

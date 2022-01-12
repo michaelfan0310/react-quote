@@ -76,7 +76,7 @@ body {
   text-overflow: 5px;
   width: 135px;
   height: 120px;
-  right: 25%;
+  margin: 20px 45px -20px -20px;
 }
 
 /* .bottom {
