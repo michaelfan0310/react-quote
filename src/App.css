@@ -61,7 +61,7 @@ body {
 .video1900{
   margin-top: -16px;
  /* padding-left: -20%; */
- margin-left: -26%;
+ margin-left: -36%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -93,7 +93,7 @@ body {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -43%;
+  left: -30%;
    top: 7%;
 } 
  #vbutton2 {
