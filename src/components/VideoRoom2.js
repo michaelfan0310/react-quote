@@ -39,8 +39,8 @@ function VideoRoom2(){
         <button 
         onClick={switchVideo}
          
-        id="vbutton" >Switch</button></div>
-        <div>
+        id="vbutton" >Switch</button>
+       
         <button 
         onClick={switchVideoAgain}
          
@@ -49,9 +49,9 @@ function VideoRoom2(){
         onClick={switchVideoBack}
          
         id="vbutton3" >3</button>
-        
         </div>
         </div>
+       
     );
     
 }

@@ -70,7 +70,7 @@ body {
 .video1900{
   margin-top: -16px;
  /* padding-left: -20%; */
- margin-left: -36%;
+ margin-left: -6%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -103,7 +103,7 @@ body {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -30%;
+  left: -80%;
    top: 7%;
 } 
  #vbutton2 {
@@ -181,17 +181,12 @@ body {
   max-width: 70%;  
   float: left;
 }
-.video1900{
-  margin-top: -16px;
- padding-left: -12%;
- margin-left: -50%;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
-  align-items: center;
+.video1900{ 
+ 
+ margin-left: -7%; 
+ 
   width:100%;
-  position: relative;
-  z-index: 9;
-}
+ }
 .button2{
   position: relative;
   z-index: 9;
