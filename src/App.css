@@ -113,27 +113,27 @@ button.disabled.js-test {
   height: 79px;
 }
 
-#vbutton {
+.vbutton {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
   left: -80%;
    top: 7%;
 } 
- #vbutton2 {
+ /* #vbutton2 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
   left: -38%;
    top: 7%;
-} 
- #vbutton3 {
+}  */
+ /* #vbutton3 {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
   left: -33%;
    top: 7%;
-} 
+}  */
 .buttonSec{
   position: relative;
   z-index: 9;
@@ -216,18 +216,19 @@ body {
   margin-top: -40px;
   left: 1%;
 }
-#vbutton, #vbutton2, #vbutton3{
+/* #vbutton, #vbutton2, #vbutton3{
   top:-6%;
-}
-#vbutton { 
+} */
+.vbutton { 
+  top:-6%;
   left: -58%;   
 } 
- #vbutton2 {
+ /* #vbutton2 {
   left: -20%;  
 } 
  #vbutton3 {
   left: 15%;  
-}
+} */
 .video2{
  margin-left: -8%;
  /* margin-top: 2%; */

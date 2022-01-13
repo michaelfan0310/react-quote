@@ -2,7 +2,7 @@
 import { exp } from "prelude-ls";
 import React, {useState} from "react";
 import Avatar from "./Avatar";
-import Detail from "./Detail";
+// import Detail from "./Detail";
 import './Card.css';
 import $ from "jquery";
 import VideoRoom9 from "./VideoRoom9";
@@ -69,11 +69,17 @@ return (
               
             </div>
             <div className="bottom" >
-              <dd >
-              <Detail 
+              <dd className="info">
+              {/* <div className="info" > */}
+            
+        {quote}         
+             
+                      
+            {/* </div> */}
+              {/* <Detail 
               style={{color:"blue"}}
                 detailInfo={quote}                
-               />
+               /> */}
                </dd>           
             </div>
         </div>
