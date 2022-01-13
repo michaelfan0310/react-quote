@@ -6,7 +6,7 @@ function ButtonWrap(){
   return(
   <div className="buttonWrapper">
    <>
-    <Button variant="outline-light" href="https://michaelfan0310.github.io/react-quotes/">React</Button>{' '} 
+    <Button variant="outline-light" href="https://michaelfan0310.github.io/react-quote/">React</Button>{' '} 
      <Button variant="outline-light" href="https://michaelfan0310.github.io/special/aquarium">Special</Button>{' '} 
 
      <Button variant="outline-light" href="https://michaelfan0310.github.io/news/pandemic.html">News</Button>{' '} 
