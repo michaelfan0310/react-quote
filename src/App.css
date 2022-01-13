@@ -163,7 +163,7 @@ button.disabled.js-test {
 }
 
 @media only screen and (max-width: 880px){
-  /* html {cursor: pointer,aout;} */
+  html {cursor:'pointer';}
 
 body {
   font-family: sans-serif;
@@ -269,7 +269,7 @@ button.disabled.js-test {
 }
 
 @media only screen and (max-width: 500px){
-  html {cursor: auto;}
+  html {cursor:'pointer';}
 
   /* .video1900{
  
