@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-import clip1 from '../Video/Michael.mp4';
+import clip1 from '../Video/Somewhere.mp4';
 import clip2 from '../Video/Schind.mp4';
 
 
