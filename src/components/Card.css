@@ -114,7 +114,7 @@ button {
     text-align: justify;
     align-items: flex-start;
     /* cursor: pointer; */
-    background-color: #00cecb00;
+    background-color: #00cecb02;
     box-sizing: content-box;
     margin: -17px -2.7em;
     font: 700 15px system-ui;
@@ -156,12 +156,12 @@ body {
   max-width: 70%;  
   float: left;
 }
-
-
 button {  
    left: -80%; 
    top: 50%;
    }
+
+
 
 
 .circle-img {
