@@ -54,9 +54,9 @@ function App() {
       <VideoRoom6 />
       
       
-      <div className="pointerKitchen">      
-       <a href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a>
-      </div>
+           
+       <a className="pointerKitchen" href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a>
+     
       <ButtonWrap />
 </div>
   );
