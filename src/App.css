@@ -16,10 +16,24 @@ body {
      cursor: not-allowed !important;
 }
 /* try to solved cursor in small screen */ 
-/* button[disabled] {
+.disabled-wrapper {
+  display: inline-block;
   cursor: not-allowed;
-} */
-/* try to solved cursor in small screen */
+}
+
+.disabled-wrapper a,
+.disabled-wrapper button {
+  pointer-events: none;
+}
+
+button[disabled] {
+  cursor: not-allowed;
+}
+
+a.disabled.js-test,
+button.disabled.js-test {
+  cursor: not-allowed;
+}
 
 .dictionary2 {
   display: flex;
@@ -195,8 +209,7 @@ body {
    top: -29%;
    padding: 0 15%;
 }
-.button4{
- 
+.button4{ 
   top: -8%;
 }
 .video4{
