@@ -124,7 +124,7 @@ button {
     border-color: #04ceca00;
     border-image: initial;
     position: relative;
-    z-index: 0;
+    z-index: 10;
    left: -29%;
    top: 67%;    
 }
@@ -160,9 +160,6 @@ button {
    left: -80%; 
    top: 50%;
    }
-
-
-
 
 .circle-img {
   border-radius: 50%;

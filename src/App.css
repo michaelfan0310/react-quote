@@ -99,8 +99,8 @@ button.disabled.js-test {
   position: relative;  
   z-index: 9;
   text-decoration-color: none;
-  top: 3%;
-  left:-13%;
+  top: 2%;
+  left:-10%;
 }
 
 .circle-img2 {
@@ -120,20 +120,7 @@ button.disabled.js-test {
   left: -80%;
    top: 7%;
 } 
- /* #vbutton2 {
-  position: relative;
-  z-index: 2;
-  color: rgba(255, 255, 255, 0.342);
-  left: -38%;
-   top: 7%;
-}  */
- /* #vbutton3 {
-  position: relative;
-  z-index: 2;
-  color: rgba(255, 255, 255, 0.342);
-  left: -33%;
-   top: 7%;
-}  */
+ 
 .buttonSec{
   position: relative;
   z-index: 9;
@@ -223,12 +210,7 @@ body {
   top:-6%;
   left: -58%;   
 } 
- /* #vbutton2 {
-  left: -20%;  
-} 
- #vbutton3 {
-  left: 15%;  
-} */
+
 .video2{
  margin-left: -8%;
  /* margin-top: 2%; */
