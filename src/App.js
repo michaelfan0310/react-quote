@@ -55,7 +55,7 @@ function App() {
       
       
       <div className="pointerKitchen">      
-      <h5> <a href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a></h5>
+       <a href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a>
       </div>
       <ButtonWrap />
 </div>

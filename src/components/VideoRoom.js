@@ -27,7 +27,7 @@ function VideoRoom(){
         
          <source src="movie.ogg" type="video/ogg">
         </source>      
-       <button className="button2" onClick={SwitchClip}>Switch</button>
+       <button className="buttonSec" onClick={SwitchClip}>Switch</button>
        
         </div>
         </div>);

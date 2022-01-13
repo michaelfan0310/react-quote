@@ -134,7 +134,7 @@ button.disabled.js-test {
   left: -33%;
    top: 7%;
 } 
-.button2{
+.buttonSec{
   position: relative;
   z-index: 9;
   color: rgba(255, 255, 255, 0.342);
@@ -201,7 +201,7 @@ body {
  
   width:100%;
  }
-.button2{
+.buttonSec{
   position: relative;
   z-index: 9;
   color: rgba(255, 255, 255, 0.342);
