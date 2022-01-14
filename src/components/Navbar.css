@@ -1,0 +1,20 @@
+.navbar {  
+  top: 0;
+  }
+
+#faviconSmall {
+  margin-right: 8px;
+}
+
+.navbar-brand:hover,.nav-item:hover {transform: scale(1.8);}
+
+.btn .btn-primary{
+  text-decoration-line:none;  
+  cursor: wait;
+}
+
+
+a{color:#feffde;
+text-shadow: 2px 2px #5fb4a5;  
+cursor: src="./images/shipCursor.cur";
+}

@@ -1,9 +1,11 @@
 import React from "react";
+
 import Card from "./components/Card";
 import quote from "./components/quotes";
 // eslint-disable-next-line
 import quotes from "./components/quotes2";
 import "./App.css";
+// import Navbar from "./components/Navbar";
 import Avatar2 from "./components/Avatar2";
 import VideoRoom from "./components/VideoRoom.js";
 import VideoRoom2 from "./components/VideoRoom2.js";
@@ -35,11 +37,13 @@ function createCard(quote){
 function App() {
     console.log(quote);
   return(<div>
-    <div>
     
+    <div>
+      
       <h1 className="heading">Michael's <Avatar2 /> Palette</h1></div>
 
        <div>
+       {/* <Navbar />  */}
       <VideoRoom />
       <VideoRoom2 />
       <VideoRoom3 />
