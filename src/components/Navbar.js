@@ -1,5 +1,7 @@
+import React from "react";
 import Button from 'react-bootstrap/Button';
 import './Navbar.css';
+import image from '../images/faviconSmall.png';
 
 function Navbar(){
     return(
@@ -8,8 +10,8 @@ function Navbar(){
 
     <div className="container">
       <a className="navbar-brand cursor " href="https://polar-escarpment-84617.herokuapp.com/">
-      {/* <img id="faviconSmall"
-          src="images/faviconSmall.png" alt="icon" width="40px" height="24px" /> */}
+      <img id="faviconSmall"
+          src={image} alt="icon" width="40px" height="24px" />
           Michael's Blog</a>
       <Button className="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
         data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
@@ -20,10 +22,10 @@ function Navbar(){
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link" href="">Home</a>
+            <a className="nav-link" href="https://michaelfan0310.github.io/home.html">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="">About</a>
+            <a className="nav-link" href="https://michaelfan0310.github.io/about.html">About</a>
           </li>
           <li className="nav-item">
         <a className="nav-link" href="https://polar-escarpment-84617.herokuapp.com/">Post</a>
@@ -46,4 +48,4 @@ function Navbar(){
  );
 }
 
-// export default Navbar;
+export default Navbar;
