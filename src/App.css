@@ -100,9 +100,9 @@ button.disabled.js-test {
   color: antiquewhite;
   position: relative;  
   z-index: 9;
-  text-decoration-color: none;
+  text-decoration: none;
   top: 2%;
-  left:-10%;
+  left:-15%;
 }
 
 .circle-img2 {

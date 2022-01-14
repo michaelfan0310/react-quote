@@ -37,7 +37,7 @@ function Navbar(){
         </ul>
         <div className="col-lg-8 text-end">
           
-  <Button variant="primary" href="https://dry-taiga-95009.herokuapp.com/">SignUp</Button>{' '}
+  <Button variant="success" href="https://dry-taiga-95009.herokuapp.com/">SignUp</Button>{' '}
   
 
         </div>

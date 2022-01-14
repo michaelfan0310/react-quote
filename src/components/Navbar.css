@@ -1,5 +1,6 @@
-.navbar {  
+.navbar, .navbar-brand{  
   top: 0;
+  text-shadow: 2px 2px #5fb4a5;  
   }
 
 #faviconSmall {
@@ -15,6 +16,10 @@
 
 
 a{color:#feffde;
-text-shadow: 2px 2px #5fb4a5;  
 cursor: src="./images/shipCursor.cur";
+}
+
+.navbar-expand-xl .navbar-nav .nav-link {
+    padding-right: 0.8rem;
+    padding-left: 0.8rem;
 }
