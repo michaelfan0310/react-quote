@@ -36,23 +36,23 @@ function createCard(quote){
 }
 function App() {
     console.log(quote);
-  return(<div>
+  return(<React.Fragment>
     
-    <div>
+   
       
-      <h1 className="heading">Michael's <Avatar2 /> Palette</h1></div>
+      <h1 className="heading">Michael's <Avatar2 /> Palette</h1>
 
-       <div>
+     
        <Navbar /> 
       <VideoRoom />
       <VideoRoom2 />
       <VideoRoom3 />
-      </div>
+    
       
       <div>
-          {quote.map(createCard)}  
-          
+          {quote.map(createCard)}                  
       </div>
+      
       <VideoRoom4 />
       <VideoRoom5 />
       <VideoRoom6 />
@@ -62,7 +62,7 @@ function App() {
        <a className="pointerKitchen" href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a>
      
       <ButtonWrap />
-</div>
+</React.Fragment>
   );
 }
 

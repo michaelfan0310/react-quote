@@ -84,9 +84,9 @@ button.disabled.js-test {
 }
 
 .video1900{
-  margin-top: -16px;
+  margin-top: 1px;
  /* padding-left: -20%; */
- margin-left: -46%;
+ margin-left: 0%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -119,8 +119,8 @@ button.disabled.js-test {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: -30%;
-   top: 7%;
+  left: 7%;
+   top: 1%;
 } 
  
 .buttonSec{
