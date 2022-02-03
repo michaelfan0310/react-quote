@@ -86,7 +86,7 @@ button.disabled.js-test {
 .video1900{
   margin-top: 1px;
  /* padding-left: -20%; */
- margin-left: 0%;
+ margin-left: -42%;
   margin-bottom: 20px;
   padding-bottom: 20px;
   align-items: center;
@@ -119,7 +119,7 @@ button.disabled.js-test {
   position: relative;
   z-index: 2;
   color: rgba(255, 255, 255, 0.342);
-  left: 7%;
+  left: -7%;
    top: 1%;
 } 
  
