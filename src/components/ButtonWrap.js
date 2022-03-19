@@ -15,7 +15,8 @@ function ButtonWrap(){
 
   <Button variant="outline-light" href="https://michaelfan0310.github.io/travel/videoWeb.html">Travel</Button>{' '}  
 
-  <Button variant="outline-light" href="https://michaelfan0310.github.io/blog/simon/">Game</Button>{' '}       
+  <Button variant="outline-light" href="https://michaelfan0310.github.io/blog/simon/">Game</Button>{' '}   
+  <Button variant="outline-light" href="https://github.com/michaelfan0310/deep-library/tree/gh-pages">Library</Button>{' '}      
    </>   
     </div>
 );
