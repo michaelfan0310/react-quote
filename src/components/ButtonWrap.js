@@ -8,6 +8,7 @@ function ButtonWrap(){
    <>
     <Button variant="outline-light" href="https://michaelfan0310.github.io/react-quote/">React</Button>{' '} 
      <Button variant="outline-light" href="https://michaelfan0310.github.io/special/aquarium">Special</Button>{' '} 
+     <Button variant="outline-light" href="https://github.com/michaelfan0310/deep-library/tree/gh-pages">Library</Button>{' '}  
 
      <Button variant="outline-light" href="https://michaelfan0310.github.io/news/pandemic.html">News</Button>{' '} 
 
@@ -16,7 +17,7 @@ function ButtonWrap(){
   <Button variant="outline-light" href="https://michaelfan0310.github.io/travel/videoWeb.html">Travel</Button>{' '}  
 
   <Button variant="outline-light" href="https://michaelfan0310.github.io/blog/simon/">Game</Button>{' '}   
-  <Button variant="outline-light" href="https://github.com/michaelfan0310/deep-library/tree/gh-pages">Library</Button>{' '}      
+    
    </>   
     </div>
 );
