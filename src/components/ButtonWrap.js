@@ -8,7 +8,7 @@ function ButtonWrap(){
    <>
     <Button variant="outline-light" href="https://michaelfan0310.github.io/react-quote/">React</Button>{' '} 
      <Button variant="outline-light" href="https://michaelfan0310.github.io/special/aquarium">Special</Button>{' '} 
-     <Button variant="outline-light" href="https://github.com/michaelfan0310/deep-library/tree/gh-pages">Library</Button>{' '}  
+     <Button variant="outline-light" href="https://www.michaelfan0310.ml/library/">Library</Button>{' '}  
 
      <Button variant="outline-light" href="https://michaelfan0310.github.io/news/pandemic.html">News</Button>{' '} 
 
