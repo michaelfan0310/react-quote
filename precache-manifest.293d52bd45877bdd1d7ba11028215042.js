@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12512593fc2917ddfa86f11b96d8503a",
+    "revision": "660a82b92a6ef9ca91d939fe79129d48",
     "url": "/react-quote/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-quote/static/css/2.ba00281c.chunk.css"
   },
   {
-    "revision": "77f1308fd19bac7a2c51",
+    "revision": "246c5998160e784160fe",
     "url": "/react-quote/static/css/main.0f16e68a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-quote/static/js/2.269383b3.chunk.js"
   },
   {
-    "revision": "77f1308fd19bac7a2c51",
-    "url": "/react-quote/static/js/main.d2cdb37b.chunk.js"
+    "revision": "246c5998160e784160fe",
+    "url": "/react-quote/static/js/main.8ac5897a.chunk.js"
   },
   {
     "revision": "6a2bd7daf470b56590d9",
