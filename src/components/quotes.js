@@ -34,7 +34,7 @@ const quotes=[
     {
     id: 4, 
      name: " Plato   ",
-    imgURL: "https://images.gr-assets.com/authors/1393978633p5/879.jpg",
+    imgURL: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/220px-Plato_Silanion_Musei_Capitolini_MC1377.jpg",
 
     quote: "I am the wisest man alive, for I know one thing, and that is that I know nothing.",
 
