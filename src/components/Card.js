@@ -22,7 +22,7 @@ function Card(props){
         setToggle(!toggle);
     if (!toggle){
         setQuote(quoteNew);  
-        $('.info').css('color','#998CEB');}
+        $('.info').css('color','#0d6efd');}
     else 
         {setQuote(quoteOriginal); 
         $('.info').css('color','#116530');
@@ -52,6 +52,11 @@ return (
                 <h2 className="name">{props.name}</h2>
                 </dt>
                 <Avatar img={props.img} />
+                
+                <button             
+                onClick={switchQuote}     
+                >Switch
+                </button>  
 
                <button className="button3"           
                 onClick={switchCard}       
@@ -59,10 +64,7 @@ return (
                 </button>    
 
 
-                <button             
-                onClick={switchQuote}     
-                >Switch
-                </button>             
+                       
                 
 
                 

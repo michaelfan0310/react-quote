@@ -24,7 +24,7 @@ function VideoRoom9(){
        <button className="button4"
         onClick={ShiftCard}
          
-        >Card</button> 
+        >Switch</button> 
        
        
         </div>

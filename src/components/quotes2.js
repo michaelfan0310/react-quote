@@ -5,9 +5,9 @@ const quotes2=[
     name: "Robert Bennett",
     imgURL: "https://upload.wikimedia.org/wikipedia/commons/7/72/Robert_T._Bennett.jpg",
 
-    quote: "Be thankful for everything that happens in your life; it’s all an experience.",
+    quote: "Be thankful for everything that happens in your life; it's all an experience.",
 
-    quote2: "Take responsibility of your own happiness, never put it in other people’s hands.",
+    quote2: "Take responsibility of your own happiness, never put it in other people's hands.",
 
     quote3: "Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.",
     
