@@ -27,10 +27,17 @@ body {
 .disabled-wrapper button {
   pointer-events: none;
 }
-.cardbox{
-  
+.cardbox{  
   margin-left: auto;
   margin-right: auto;
+}
+p{
+  position: relative;
+  z-index: 9;
+  color: rgba(255, 255, 255, 0.842);
+  margin-left: 43%;
+  font-size: 0.6rem;
+  top: -33%;
 }
 
 button[disabled] {
@@ -64,7 +71,7 @@ button.disabled.js-test {
 }
 
 .video1, .video2{
-  margin-top: -40px;
+  margin-top: -2%;
   margin-bottom: 20px;
   padding-bottom: -20px;
   align-items: center;
@@ -91,14 +98,14 @@ button.disabled.js-test {
 }
 
 .video1900{
+  position: relative;
   margin-top: 1px;
  /* padding-left: -20%; */
- margin-left: -42%;
+
   margin-bottom: 20px;
   padding-bottom: 20px;
-  align-items: center;
-  width:100%;
-  position: relative;
+  
+  width:100%;  
   z-index: 9;
 }
 
