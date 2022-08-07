@@ -71,7 +71,7 @@ button.disabled.js-test {
 }
 
 .video1, .video2{
-  margin-top: -2%;
+  margin-top: -8%;
   margin-bottom: 20px;
   padding-bottom: -20px;
   align-items: center;
@@ -82,7 +82,7 @@ button.disabled.js-test {
   left: -2%;
 }
 .video2{
-  margin-top: -30px;
+  
   max-height: 260px;
   left: 1%;
 }
