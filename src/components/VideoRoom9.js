@@ -30,11 +30,11 @@ function VideoRoom9(){
         </div>
         </div>}
         <div>
-        { shift && 
-        <Card1 
-             name={quotes[0].name} 
-             img={quotes[0].imgURL}
-             quote={quotes[0].quote} />}
+           { shift && 
+             <Card1 
+             name={quotes[3].name} 
+             img={quotes[3].imgURL}
+             quote={quotes[3].quote} />}
         </div>
         </div>
     );
