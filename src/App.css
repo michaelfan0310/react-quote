@@ -101,10 +101,9 @@ button.disabled.js-test {
   position: relative;
   margin-top: 1px;
  /* padding-left: -20%; */
-
   margin-bottom: 20px;
   padding-bottom: 20px;
-  
+  margin-left: -42%;
   width:100%;  
   z-index: 9;
 }

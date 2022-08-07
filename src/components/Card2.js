@@ -55,7 +55,7 @@ return (
 
                <button className="sbutton3"           
                 onClick={switchCard}       
-                >Switch
+                >Svideo
                 </button>   
                 <button className="sbutton3"           
                 onClick={switchQuote}       
