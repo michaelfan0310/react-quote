@@ -1,15 +1,15 @@
 // eslint-disable-next-line
-import { exp } from "prelude-ls";
+// import { exp } from "prelude-ls";
 import React, {useState} from "react";
 import Avatar from "./Avatar";
-// import Detail from "./Detail";
+// import quotes from "./quotes2.js";
 import './Card.css';
 
 import VideoRoom9 from "./VideoRoom9";
 import $ from 'jquery';
 
 function Card1(props){
-    const quoteOriginal=props.quote;
+    const quoteOriginal="Be thankful for everything that happens in your life; it's all an experience."
     // eslint-disable-next-line
     const quoteAdd=props.quote3;
     const [toggle, setToggle]=useState(false);
@@ -18,14 +18,14 @@ function Card1(props){
   
 
     function switchQuote(){
-        const quoteNew=props.quote2;
+        const quoteNew="Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."
         setToggle(!toggle);
     if (!toggle){
         setQuote(quoteNew);  
-        $('.info').css('color','#998CEB');}
+        $('.info').css('color','black');}
     else 
         {setQuote(quoteOriginal); 
-        $('.info').css('color','#116530');
+        $('.info').css('color','#116530bla');
     }
       
     }
@@ -56,7 +56,11 @@ return (
                <button className="sbutton3"           
                 onClick={switchCard}       
                 >Switch
-                </button>          
+                </button>   
+                <button className="sbutton3"           
+                onClick={switchQuote}       
+                >S2
+                </button>       
              </div>
             <div className="bottom" >
               <dd className="info">

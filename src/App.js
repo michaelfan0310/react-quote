@@ -44,6 +44,7 @@ function App() {
 
      
        <Navbar /> 
+       <div className="cardbox">
       <VideoRoom />
       <VideoRoom2 />
       <VideoRoom3 />
@@ -57,7 +58,7 @@ function App() {
       <VideoRoom5 />
       <VideoRoom6 />
       
-      
+      </div>
            
        <a className="pointerKitchen" href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a>
      

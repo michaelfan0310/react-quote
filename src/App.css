@@ -27,6 +27,11 @@ body {
 .disabled-wrapper button {
   pointer-events: none;
 }
+.cardbox{
+  
+  margin-left: auto;
+  margin-right: auto;
+}
 
 button[disabled] {
   cursor: not-allowed;
