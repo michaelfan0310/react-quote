@@ -140,7 +140,7 @@ button.disabled.js-test {
   position: relative;
   z-index: 9;
   color: rgba(255, 255, 255, 0.342);
-  left: -10%;
+  left: 2%;
    top: -22%;
    padding: 0 15%;
 }
