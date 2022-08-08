@@ -3,7 +3,7 @@
 import React, {useState} from "react";
 import Avatar from "./Avatar";
 // import quotes from "./quotes2.js";
-import './Card.css';
+import './Card2.css';
 
 import VideoRoom from "./VideoRoom";
 import $ from 'jquery';
@@ -46,8 +46,8 @@ return (
 
     <div>
     {!iscard &&   <dl className="dictionary">
-        <div className="cardback">
-            <div className="top">
+        <div className="cardback2">
+            <div className="top2">
             <dt>
                 <h2 className="name">{props.name}</h2>
                 </dt>
@@ -62,8 +62,8 @@ return (
                 >S2
                 </button>       
              </div>
-            <div className="bottom" >
-              <dd className="info">
+            <div className="bottom2" >
+              <dd className="info2">
               {/* <div className="info" > */}
             
         {quote}         
