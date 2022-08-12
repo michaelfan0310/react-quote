@@ -144,6 +144,10 @@ button.disabled.js-test {
    top: -22%;
    padding: 0 15%;
 }
+
+.sbutton3{
+  left: -22%;
+}
 /* .button3{
   position: relative;
   z-index: 9;
