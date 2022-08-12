@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-quote/static/css/main.2a02ef11.css",
+    "main.css": "/react-quote/static/css/main.e11d9f95.css",
     "main.js": "/react-quote/static/js/main.b3de33f0.js",
     "static/media/CityIntheSky.mp4": "/react-quote/static/media/CityIntheSky.3ec6405fda80d2d1868c.mp4",
     "static/media/OutAf.mp4": "/react-quote/static/media/OutAf.bf5d19485ddb0af5dd1d.mp4",
@@ -19,11 +19,11 @@
     "static/media/dario.jpg": "/react-quote/static/media/dario.aa521122a43c94b4c1b5.jpg",
     "static/media/michael.png": "/react-quote/static/media/michael.3efdc0f02031b02cc25b.png",
     "index.html": "/react-quote/index.html",
-    "main.2a02ef11.css.map": "/react-quote/static/css/main.2a02ef11.css.map",
+    "main.e11d9f95.css.map": "/react-quote/static/css/main.e11d9f95.css.map",
     "main.b3de33f0.js.map": "/react-quote/static/js/main.b3de33f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a02ef11.css",
+    "static/css/main.e11d9f95.css",
     "static/js/main.b3de33f0.js"
   ]
 }
