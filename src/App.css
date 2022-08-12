@@ -158,7 +158,7 @@ button.disabled.js-test {
 .button4{
   position: relative;
   z-index: 9;
-  color: rgba(255, 255, 255, 0.842);
+  color: rgba(160, 138, 138, 0.601);
   left: 5%;
   top: -5%;
 }
