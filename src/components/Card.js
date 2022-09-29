@@ -6,6 +6,8 @@ import Avatar from "./Avatar";
 import './Card.css';
 import $ from "jquery";
 import VideoRoom9 from "./VideoRoom9";
+
+// import quotes from "./quotes";
 // import $ from 'jquery';
 
 function Card(props){
@@ -19,6 +21,10 @@ function Card(props){
 
     function switchQuote(){
         const quoteNew=props.quote2;
+        // for(let i=1;i<quotes.length;i++){
+        //    quoteNew=props.quote[i];
+        // }
+        
         setToggle(!toggle);
     if (!toggle){
         setQuote(quoteNew);  
@@ -61,31 +67,17 @@ return (
                <button className="button3"           
                 onClick={switchCard}       
                 >S2
-                </button>    
+                </button>            
+         </div>
 
-
-                       
-                
-
-                
-              
-            </div>
             <div className="bottom" >
               <dd className="info">
               {/* <div className="info" > */}
             
-        {quote}         
-             
-                      
-            {/* </div> */}
-              {/* <Detail 
-              style={{color:"blue"}}
-                detailInfo={quote}                
-               /> */}
-               </dd>           
+              {quote}         
+              </dd>           
             </div>
-        </div>
-        
+          </div>        
         </dl>
         
         }

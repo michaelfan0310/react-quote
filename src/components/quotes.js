@@ -22,7 +22,7 @@ const quotes=[
 {
     id: 3, 
     name: "Socrates",
-         imgURL: "https://media.istockphoto.com/photos/statue-of-socrates-picture-id93049834?k=20&m=93049834&s=612x612&w=0&h=_z8q8Qn0xcEB9FKw2cvopVnTm4V_7pVbHaZDomdJDfk=",
+    imgURL: "https://media.istockphoto.com/photos/statue-of-socrates-picture-id93049834?k=20&m=93049834&s=612x612&w=0&h=_z8q8Qn0xcEB9FKw2cvopVnTm4V_7pVbHaZDomdJDfk=",
     quote: "There is only one good, knowledge, and one evil, ignorance. ",
 
     quote2: "No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable.",
