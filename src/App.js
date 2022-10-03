@@ -26,10 +26,10 @@ function createCard(quote){
         key ={quote.id}
         name= {quote.name}
         img={quote.imgURL}
-        quote={quote.quote} 
-        quote2={quote.quote2} 
-        quote3={quote.quote3} 
-        quote4={quote.quote4} 
+        sp={quote.speech} 
+        sp2={quote.speech2} 
+        sp3={quote.speech3} 
+        sp4={quote.speech4} 
         // onClick={}
         />
     );

@@ -11,16 +11,16 @@ import VideoRoom9 from "./VideoRoom9";
 // import $ from 'jquery';
 
 function Card(props){
-    const quoteOriginal=props.quote;
+    const quoteOriginal=props.sp;
     // eslint-disable-next-line
-    const quoteAdd=props.quote3;
+    const quoteAdd=props.sp3;
     const [toggle, setToggle]=useState(false);
     const [quote, setQuote]=useState(quoteOriginal);
     const [iscard, setCard]=useState(false);
   
 
     function switchQuote(){
-        const quoteNew=props.quote2;
+        const quoteNew=props.sp2;
         // for(let i=1;i<quotes.length;i++){
         //    quoteNew=props.quote[i];
         // }
@@ -28,10 +28,10 @@ function Card(props){
         setToggle(!toggle);
     if (!toggle){
         setQuote(quoteNew);  
-        $('.info').css('color','#0d6efd');}
+        $('.info').css('font-style','italic');}
     else 
         {setQuote(quoteOriginal); 
-        $('.info').css('color','#116530');
+        $('.info').css('font-style','normal');
     }
       
     }
