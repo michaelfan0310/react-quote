@@ -61,7 +61,7 @@ function App() {
       
       </div>
            
-       <a className="pointerKitchen" href="https://michaelfan0310.github.io/react-kitchen/">React-Kitchen</a>
+       <a className="pointerKitchen" href="https://www.michaelfan0310.ml/react-kitchen/">React-Kitchen</a>
      
       <ButtonWrap />
 </React.Fragment>
