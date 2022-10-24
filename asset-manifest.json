@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-quote/static/css/main.fda8d2a6.css",
-    "main.js": "/react-quote/static/js/main.94b5fdc8.js",
+    "main.js": "/react-quote/static/js/main.77de013d.js",
     "static/media/CityIntheSky.mp4": "/react-quote/static/media/CityIntheSky.3ec6405fda80d2d1868c.mp4",
     "static/media/OutAf.mp4": "/react-quote/static/media/OutAf.bf5d19485ddb0af5dd1d.mp4",
     "static/media/Teheran.mp4": "/react-quote/static/media/Teheran.edf5592b748363c6d05c.mp4",
@@ -20,10 +20,10 @@
     "static/media/michael.png": "/react-quote/static/media/michael.3efdc0f02031b02cc25b.png",
     "index.html": "/react-quote/index.html",
     "main.fda8d2a6.css.map": "/react-quote/static/css/main.fda8d2a6.css.map",
-    "main.94b5fdc8.js.map": "/react-quote/static/js/main.94b5fdc8.js.map"
+    "main.77de013d.js.map": "/react-quote/static/js/main.77de013d.js.map"
   },
   "entrypoints": [
     "static/css/main.fda8d2a6.css",
-    "static/js/main.94b5fdc8.js"
+    "static/js/main.77de013d.js"
   ]
 }
