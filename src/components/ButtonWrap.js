@@ -6,10 +6,10 @@ function ButtonWrap(){
   return(
   <div className="buttonWrapper">
    <>
-    <Button variant="outline-light" href="https://www.michaelfan0310.ml/react-quote/">React</Button>{' '} 
-     <Button variant="outline-light" href="https://www.michaelfan0310.ml/special/aquarium">Special</Button>{' '}                                 
+    <Button variant="outline-light" href="http://michaelfan.tk/react-quote/">React</Button>{' '} 
+     <Button variant="outline-light" href="http://michaelfan.tk/special/aquarium.html">Special</Button>{' '}                                 
      <Button variant="outline-light" href="https://www.michaelfan0310.ml/vue_music">Vue</Button>{' '} 
-     <Button variant="outline-light" href="https://www.michaelfan0310.ml/library/">Library</Button>{' '}  
+     <Button variant="outline-light" href="http://michaelfan.tk/library/">Library</Button>{' '}  
 
      <Button variant="outline-light" href="https://www.michaelfan0310.ml/news/pandemic.html">News</Button>{' '} 
 
