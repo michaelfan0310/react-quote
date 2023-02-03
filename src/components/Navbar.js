@@ -9,7 +9,7 @@ function Navbar(){
  <nav className="navbar fixed-top navbar-expand-xl navbar-light" style={{backgroundColor: "#010d1a0c"}}id="mainNav">
 
     <div className="container">
-      <a className="navbar-brand cursor "           href="https://www.michaelfan0310.ml/">
+      <a className="navbar-brand cursor "           href="https://www.michaelfan.ml/">
       <img id="faviconSmall"
           src={image} alt="icon" width="40px" height="24px" />
           Michael's Blog</a>
@@ -22,14 +22,14 @@ function Navbar(){
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link" href="https://www.michaelfan0310.ml/home.html">Home</a>
+            <a className="nav-link" href="https://www.michaelfan.ml/home.html">Home</a>
       
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="https://www.michaelfan0310.ml/vue_aboutme/">About</a>
+            <a className="nav-link" href="https://www.michaelfan.ml/vue_aboutme/">About</a>
           </li>
           <li className="nav-item">
-        <a className="nav-link" href="https://polar-escarpment-84617.herokuapp.com/">Post</a>
+        <a className="nav-link" href="https://www.michaelfan.ml/testWord/">Post</a>
           </li>
 
           <li className="nav-item">
