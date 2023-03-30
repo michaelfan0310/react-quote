@@ -41,7 +41,7 @@ function App() {
    
       
       <h1 className="heading">Michael's <Avatar2 /> Matrix</h1>
-      <p>Click unmute button, enjoy the music</p>
+      <p>Click unmute button & enjoy the music</p>
 
      
        <Navbar /> 

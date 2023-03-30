@@ -66,8 +66,8 @@ button.disabled.js-test {
   height: 260px;
   box-shadow: 0 2px 6px rgba(238, 232, 232, 0.966);
   /* text-align: left;  */
-  max-width: 400px;
-  min-width: 400px;
+  max-width: 380px;
+  min-width: 380px;
 }
 
 .video1, .video2{
