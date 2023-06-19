@@ -22,11 +22,11 @@ function Navbar(){
       <div className="collapse navbar-collapse" id="navbarResponsive">
         <ul className="navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link" href="https://www.michael.ml/home.html">Home</a>
+            <a className="nav-link" href="https://www.michaelfan.ml">Home</a>
       
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="https://www.michael.ml/vue_aboutme/">About</a>
+            <a className="nav-link" href="https://www.michaelfan.ml/vue_aboutme/">About</a>
           </li>
           <li className="nav-item">
         <a className="nav-link" href="https://www.michaelfan.ml/testWord/">Post</a>
