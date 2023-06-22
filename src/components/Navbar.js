@@ -13,7 +13,8 @@ class Navbar extends React.Component{
  <nav className="navbar fixed-top navbar-expand-xl navbar-light" style={{backgroundColor: "#010d1a0c"}} id="mainNav" >
 
     <div className="container">
-      <a className="navbar-brand cursor "           href="https://www.michaelfan.ml/" onClick={this.changeBackground} style={isLight?{backgroundColor: "#010d1a0c"}: {backgroundColor: "coral"}}>
+      <a className="navbar-brand cursor "           href="https://www.michaelfan.ml/" 
+      onClick={this.changeBackground} style={isLight?{backgroundColor: "#010d1a0c"}: {backgroundColor: "coral"}}>
       <img id="faviconSmall"
           src={image} alt="icon" width="40px" height="24px" />
           Michael's Blog</a>
