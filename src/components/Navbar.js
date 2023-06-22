@@ -3,13 +3,17 @@ import Button from 'react-bootstrap/Button';
 import './Navbar.css';
 import image from '../images/faviconSmall.png';
 
-function Navbar(){
+class Navbar extends React.Component{
+  state={isLight:true}
+
+  render(){
+    const {isLight}=this.state
     return(
  <div>     
- <nav className="navbar fixed-top navbar-expand-xl navbar-light" style={{backgroundColor: "#010d1a0c"}}id="mainNav">
+ <nav className="navbar fixed-top navbar-expand-xl navbar-light" style={{backgroundColor: "#010d1a0c"}} id="mainNav" >
 
     <div className="container">
-      <a className="navbar-brand cursor "           href="https://www.michaelfan.ml/">
+      <a className="navbar-brand cursor "           href="https://www.michaelfan.ml/" onClick={this.changeBackground} style={isLight?{backgroundColor: "#010d1a0c"}: {backgroundColor: "coral"}}>
       <img id="faviconSmall"
           src={image} alt="icon" width="40px" height="24px" />
           Michael's Blog</a>
@@ -48,5 +52,11 @@ function Navbar(){
   </div>   
  );
 }
+changeBackground=()=>{
+  const isLight=this.state.isLight
+  this.setState({isLight:!isLight})
+}
 
+}
 export default Navbar;
+
