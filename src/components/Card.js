@@ -51,7 +51,7 @@ function Card(props){
 return (
 
     <div>
-    {!iscard &&   <dl className="dictionary">
+    {!iscard &&   <dl className="dictionary toMiddle ">
         <div className="cardback">
             <div className="top">
             <dt>
