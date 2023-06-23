@@ -3,7 +3,7 @@ import React from "react";
 import Card from "./components/Card";
 import quote from "./components/quotes";
 // eslint-disable-next-line
-import quotes from "./components/quotes2";
+// import quotes from "./components/quotes2";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Avatar2 from "./components/Avatar2";
@@ -14,27 +14,15 @@ import VideoRoom4 from "./components/VideoRoom4.js";
 import VideoRoom5 from "./components/VideoRoom5.js";
 import VideoRoom6 from "./components/VideoRoom6.js";
 // eslint-disable-next-line
-import Card1 from "./components/Card1.js";
+// import Card1 from "./components/Card1.js";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import '!style-loader!css-loader!bootstrap/dist/css/bootstrap.css';
 import ButtonWrap from './components/ButtonWrap.js';
 
-function createCard(quote){
-    return (
-        <Card
-        key ={quote.id}
-        name= {quote.name}
-        img={quote.imgURL}
-        sp={quote.speech} 
-        sp2={quote.speech2} 
-        sp3={quote.speech3} 
-        sp4={quote.speech4} 
-        // onClick={}
-        />
-    );
-}
-function App() {
+
+class App extends React.Component{
+    render(){
     console.log(quote);
   return(<React.Fragment>
     
@@ -52,7 +40,7 @@ function App() {
     
       
       <div>
-          {quote.map(createCard)}                  
+          {quote.map(this.createCard)}                  
       </div>
       
       <VideoRoom4 />
@@ -66,6 +54,21 @@ function App() {
       <ButtonWrap />
 </React.Fragment>
   );
-}
+   }
 
+  createCard(quote){
+    return (
+        <Card
+        key ={quote.id}
+        name= {quote.name}
+        img={quote.imgURL}
+        sp={quote.speech} 
+        sp2={quote.speech2} 
+        sp3={quote.speech3} 
+        sp4={quote.speech4} 
+        // onClick={}
+        />
+    );
+  }
+}
 export default App;

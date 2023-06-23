@@ -33,7 +33,9 @@
   transform:scale(1.8); 
   position: fixed;
   margin: auto 25%;
-  z-index: 100;} 
+  z-index: 100;
+  background-color: rgba(128, 128, 128, 0.487);
+} 
 
 .shift {
   position: static;
