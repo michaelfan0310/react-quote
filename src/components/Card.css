@@ -38,7 +38,7 @@
   background: rgba(128, 128, 128, 0.687);
 } 
 .toMiddle2:hover {
-  transform:scale(1.6); 
+  transform:scale(1.4); 
   position: fixed;
   margin: auto inherit;
   

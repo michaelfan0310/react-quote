@@ -28,7 +28,7 @@ function VideoRoom2(){
     }; 
     //   const videoRef = React.useRef(); 
     return(
-        <div className="dictionary2 ">
+        <div className="dictionary2 toMiddle2">
         <div className="card2">        
 
        <video controls autoPlay loop muted className="video1900" 
@@ -39,16 +39,16 @@ function VideoRoom2(){
         <button 
         onClick={switchVideo}
          
-        className="vbutton" >Swt</button>
+        className="vbutton" >Switch </button>
        
         <button 
         onClick={switchVideoAgain}
          
-        className="vbutton" >2</button>
+        className="vbutton" >  2</button>
         <button 
         onClick={switchVideoBack}
          
-        className="vbutton" >3</button>
+        className="vbutton" > 3</button>
         </div>
         </div>
        

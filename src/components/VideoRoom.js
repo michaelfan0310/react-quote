@@ -33,9 +33,9 @@ function VideoRoom(){
         
          <source src="movie.ogg" type="video/ogg">
         </source>      
-       <button className="buttonSec" onClick={SwitchClip}>Svideo</button>
+       <button className="buttonSec" onClick={SwitchClip}>Switch</button>
 
-       <button className="buttonSec" onClick={SwitchCard}>Qcard</button>
+       <button className="buttonSec" onClick={SwitchCard}>S-card</button>
        
         </div>
         </div>} 
