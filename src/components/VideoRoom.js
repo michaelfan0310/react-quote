@@ -24,7 +24,7 @@ function VideoRoom(){
         setShift(!shift);
      };
     return(<div>{ !shift && 
-        <div className="dictionary2">
+        <div className="dictionary2 toMiddle2">
         <div className="card2">
         
 

@@ -28,7 +28,7 @@ function VideoRoom2(){
     }; 
     //   const videoRef = React.useRef(); 
     return(
-        <div className="dictionary2">
+        <div className="dictionary2 ">
         <div className="card2">        
 
        <video controls autoPlay loop muted className="video1900" 

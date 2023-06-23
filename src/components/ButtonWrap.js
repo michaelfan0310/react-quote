@@ -2,7 +2,8 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import './ButtonWrap.css';
 
-function ButtonWrap(){
+class ButtonWrap extends React.Component{
+  render(){
   return(
   <div className="buttonWrapper">
    <>
@@ -21,5 +22,5 @@ function ButtonWrap(){
     </div>
 );
 }
-
+}
 export default ButtonWrap;

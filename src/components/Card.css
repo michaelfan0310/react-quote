@@ -33,8 +33,17 @@
   transform:scale(1.8); 
   position: fixed;
   margin: auto 25%;
+  
   z-index: 100;
-  background-color: rgba(128, 128, 128, 0.487);
+  background: rgba(128, 128, 128, 0.687);
+} 
+.toMiddle2:hover {
+  transform:scale(1.6); 
+  position: fixed;
+  margin: auto inherit;
+  
+  z-index: 100;
+  background: rgba(128, 128, 128, 0.687);
 } 
 
 .shift {
