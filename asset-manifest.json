@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-quote/static/css/main.888dca66.css",
-    "main.js": "/react-quote/static/js/main.b80f8143.js",
+    "main.css": "/react-quote/static/css/main.c80ecc69.css",
+    "main.js": "/react-quote/static/js/main.08e609cd.js",
     "static/media/CityIntheSky.mp4": "/react-quote/static/media/CityIntheSky.3ec6405fda80d2d1868c.mp4",
     "static/media/OutAf.mp4": "/react-quote/static/media/OutAf.bf5d19485ddb0af5dd1d.mp4",
     "static/media/Teheran.mp4": "/react-quote/static/media/Teheran.edf5592b748363c6d05c.mp4",
@@ -19,11 +19,11 @@
     "static/media/dario.jpg": "/react-quote/static/media/dario.aa521122a43c94b4c1b5.jpg",
     "static/media/michael.png": "/react-quote/static/media/michael.3efdc0f02031b02cc25b.png",
     "index.html": "/react-quote/index.html",
-    "main.888dca66.css.map": "/react-quote/static/css/main.888dca66.css.map",
-    "main.b80f8143.js.map": "/react-quote/static/js/main.b80f8143.js.map"
+    "main.c80ecc69.css.map": "/react-quote/static/css/main.c80ecc69.css.map",
+    "main.08e609cd.js.map": "/react-quote/static/js/main.08e609cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.888dca66.css",
-    "static/js/main.b80f8143.js"
+    "static/css/main.c80ecc69.css",
+    "static/js/main.08e609cd.js"
   ]
 }
